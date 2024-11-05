@@ -1,4 +1,4 @@
-The slides put there are used for the book titled "Principles of Machine Learning: The Three Perspectives". 
+The slides put into the subfold of lecture-slides are used for the book titled "Principles of Machine Learning: The Three Perspectives". 
 
 If you find any issues, please let me know. Thanks!
 
