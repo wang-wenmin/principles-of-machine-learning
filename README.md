@@ -1,8 +1,5 @@
-The slides put into the subfold of lecture-slides are used for the book titled "Principles of Machine Learning: The Three Perspectives". 
+The slides in the subfolder are used to present the book “Principles of Machine Learning: The Three Perspectives” (https://link.springer.com/book/10.1007/978-981-97-5333-8). 
 
-If you find any issues, please let me know. Thanks!
+Please let me know if you find any issues. Thanks!
 
-Book URL: https://link.springer.com/book/10.1007/978-981-97-5333-8
-
-Amazon: https://www.amazon.com/Principles-Machine-Learning-Three-Perspectives/dp/9819753325
 
